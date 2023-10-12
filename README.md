@@ -8,4 +8,4 @@ A global consortium to deploy population scale Long-read genomes across multiple
 
 ## Contact us
 
-Email us at (CattleLRC@gmail.com)[mailto:CattleLRC@gmail.com]
+Email us at [CattleLRC@gmail.com](mailto:CattleLRC@gmail.com)
